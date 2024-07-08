@@ -5,10 +5,8 @@ A feature-ric builtA feature-rich video player and streaming built using the MER
 
 
 ## Demo
-<video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/anupmaurya1994/watchingVideo.ReactJS/main/src/img/playerdemo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the Video](https://raw.githubusercontent.com/anupmaurya1994/watchingVideo.ReactJS/main/src/img/playerdemo.mp4)
+
 
 
 Or watch the demo [here.](https://videoplayer-9bb8.onrender.com)
