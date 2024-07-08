@@ -30,7 +30,13 @@ Or watch the demo [here.](https://videoplayer-9bb8.onrender.com)
 - **React Icons & MUI**: For icons.
 
 
-![App Screenshot](https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/dashboard.png)
+<img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/dashboard.png" width="250">
+<img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/sign-in.png" width="250">
+<img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/firebase.png" width="250">
+<img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/uplaod.png" width="250">
+<video src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/playerdemo.mp4" width="250" autoplay>
+
+
 
 
 ## Configuration
