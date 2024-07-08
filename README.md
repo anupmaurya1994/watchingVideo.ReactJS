@@ -7,8 +7,7 @@ A feature-ric builtA feature-rich video player and streaming built using the MER
 ## Demo
 
 
-Or watch the demo [here.](https://youtu.be/CJEoNpLgRRw?si=8F2vfGwuBO03jRsH)
-
+Or watch the demo [here.](https://videoplayer-9bb8.onrender.com)
 
 ## Features
 
