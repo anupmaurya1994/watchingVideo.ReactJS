@@ -30,11 +30,8 @@ Or watch the demo [here.](https://videoplayer-9bb8.onrender.com)
 - **React Icons & MUI**: For icons.
 
 
-<img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/dashboard.png" width="250">
-<img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/sign-in.png" width="250">
-<img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/firebase.png" width="250">
-<img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/uplaod.png" width="250">
-<video src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/playerdemo.mp4" width="250" autoplay>
+<img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/dashboard.png" width="400"> <img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/sign-in.png" width="400"><img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/firebase.png" width="400"><img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/uplaod.png" width="400">
+<video src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/playerdemo.mp4" width="400" autoplay>
 
 
 
