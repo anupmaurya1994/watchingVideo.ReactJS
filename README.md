@@ -5,9 +5,7 @@ A feature-ric builtA feature-rich video player and streaming built using the MER
 
 
 ## Demo
-[Watch the Video](https://raw.githubusercontent.com/anupmaurya1994/watchingVideo.ReactJS/main/src/img/playerdemo.mp4)
-
-
+https://firebasestorage.googleapis.com/v0/b/videoplayer-9b374.appspot.com/o/playerdemo.mp4?alt=media&token=a8b17589-f735-4f06-bf11-b6710b4b558d
 
 Or watch the demo [here.](https://videoplayer-9bb8.onrender.com)
 
