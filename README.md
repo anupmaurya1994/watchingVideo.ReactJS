@@ -5,6 +5,7 @@ A feature-ric builtA feature-rich video player and streaming built using the MER
 
 
 ## Demo
+[![Watch the video](https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/playerdemo.mp4)
 
 
 Or watch the demo [here.](https://videoplayer-9bb8.onrender.com)
@@ -31,7 +32,6 @@ Or watch the demo [here.](https://videoplayer-9bb8.onrender.com)
 
 
 <img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/dashboard.png" width="400"> <img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/sign-in.png" width="400"><img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/firebase.png" width="400"><img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/uplaod.png" width="400">
-<video src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/playerdemo.mp4" width="400" autoplay>
 
 
 
