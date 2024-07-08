@@ -30,6 +30,9 @@ Or watch the demo [here.](https://videoplayer-9bb8.onrender.com)
 - **React Icons & MUI**: For icons.
 
 
+![App Screenshot](https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/dashboard.png)
+
+
 ## Configuration
 1. Create a `.env` file in the root directory of your project.
 2. Add necessary environment variables to the `.env` file, such as database connection URLs, API keys, or other sensitive data.
